@@ -1,0 +1,47 @@
+2022-01-08 16:30:58,949 - __main__ - INFO - Start print log
+2022-01-08 16:30:58,950 - __main__ - WARNING - Something maybe fail.
+2022-01-08 16:30:58,951 - __main__ - INFO - Finish
+2022-01-08 16:35:19,948 - __main__ - INFO - Start processing answer...
+2022-01-08 16:35:19,950 - __main__ - INFO - Total population is 18584780.214717396
+2022-01-08 16:35:19,950 - __main__ - INFO - Query range is [[0, 0], [30, 40], [60, 20], [50, -20]]
+2022-01-08 16:35:22,499 - __main__ - INFO - Finish
+2022-01-08 16:36:04,258 - __main__ - INFO - Start processing answer...
+2022-01-08 16:36:04,259 - __main__ - INFO - Total population is 18584780.214717396
+2022-01-08 16:36:04,259 - __main__ - INFO - Query range is [[0, 0], [30, 40], [60, 20], [50, -20]]
+2022-01-08 16:36:05,666 - __main__ - INFO - Finish
+2022-01-08 17:55:31,033 - __main__ - INFO - Start processing answer...
+2022-01-08 17:55:31,034 - __main__ - INFO - Total population is 669772015.729826
+2022-01-08 17:55:31,034 - __main__ - INFO - Query range is [[0, 0], [30, 40], [60, 20], [50, -20]]
+2022-01-08 17:55:40,304 - __main__ - INFO - Finish
+2022-01-08 17:57:01,206 - __main__ - INFO - Start processing answer...
+2022-01-08 17:57:01,208 - __main__ - INFO - Total population is 6746158652.516213
+2022-01-08 17:57:01,208 - __main__ - INFO - Query range is [[-180, 90], [180, 90], [180, -90], [180, -90]]
+2022-01-08 17:59:25,040 - __main__ - INFO - Finish
+2022-01-08 17:59:43,978 - __main__ - INFO - Start processing answer...
+2022-01-08 17:59:43,981 - __main__ - INFO - Total population is 7967933799.639138
+2022-01-08 17:59:43,981 - __main__ - INFO - Query range is [[-180, 90], [180, 90], [180, -90], [-180, -90]]
+2022-01-08 17:59:54,660 - __main__ - INFO - Finish
+2022-01-08 18:27:50,894 - __main__ - INFO - Start processing answer...
+2022-01-08 18:27:50,895 - __main__ - INFO - Total population is 669772015.729826
+2022-01-08 18:27:50,895 - __main__ - INFO - Query range is [[0, 0], [30, 40], [60, 20], [50, -20]]
+2022-01-08 18:30:04,275 - __main__ - INFO - Finish
+2022-01-08 18:30:21,961 - __main__ - INFO - Start processing answer...
+2022-01-08 18:30:21,962 - __main__ - INFO - Total population is 1385682469.9155636
+2022-01-08 18:30:21,962 - __main__ - INFO - Query range is [[-30, 0], [30, 40], [60, 20], [50, -20], [-120, -60]]
+2022-01-08 18:30:55,581 - __main__ - INFO - Finish
+2022-01-08 18:32:35,226 - __main__ - INFO - Start processing answer...
+2022-01-08 18:32:35,226 - __main__ - INFO - Total population is 812928.1343136721
+2022-01-08 18:32:35,226 - __main__ - INFO - Query range is [[-60, 20], [-60, 70], [-20, 70], [-20, 20]]
+2022-01-08 18:32:51,248 - __main__ - INFO - Finish
+2022-01-08 18:33:15,458 - __main__ - INFO - Start processing answer...
+2022-01-08 18:33:15,459 - __main__ - INFO - Total population is 4043089.9662375688
+2022-01-08 18:33:15,459 - __main__ - INFO - Query range is [[-60, 20], [-60, 70], [-10, 70], [-10, 20]]
+2022-01-08 18:38:16,258 - __main__ - INFO - Finish
+2022-01-08 18:38:59,155 - __main__ - INFO - Start processing answer...
+2022-01-08 18:38:59,158 - __main__ - INFO - Total population is 7967933799.639138
+2022-01-08 18:38:59,159 - __main__ - INFO - Query range is [[-180, 90], [180, 90], [180, -90], [-180, -90]]
+2022-01-08 18:39:40,309 - __main__ - INFO - Finish
+2022-01-09 13:26:01,311 - __main__ - INFO - Start processing answer...
+2022-01-09 13:26:01,320 - __main__ - INFO - Total population is 7967933799.639138
+2022-01-09 13:26:01,320 - __main__ - INFO - Query range is [[-180, 90], [180, 90], [180, -90], [-180, -90]]
+2022-01-09 13:26:12,337 - __main__ - INFO - Finish
